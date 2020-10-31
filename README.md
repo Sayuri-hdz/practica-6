@@ -79,9 +79,7 @@ void portsInit( void );
 ### Report
 For this practice, add to the Result Section the following:
     - image of the BUILD SUCCESSFUL window.
-    - image of each modified register for the portInit() function when you debug the code step by step. TIP: Put a breakpoint at the first line of the porInit( ) function and open the IO window (Window → Debugging → IO View). Also, modify the Conclusions Section and your names at the top of the document.
-    - image of the connections between the Curiositiy board and  your  minimum  card  system (Proteus).  The  image must contain a short description, and a footnote.
-    - description of the problems found and solutions.
+    - image of each modified register for the portInit() function when you debug the code step by step. TIP: Put a breakpoint at the first line of the porInit( ) function and open the IO window (Window → Debugging → IO View). 
 
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
@@ -90,5 +88,5 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
+Durante esta practica tuve dificultades al momento de utilizar el programa Proteus, que serviria para simular el codigo y el microcontrolador. Esta practica fue la primera vez que utilice Proteus. Con el diagrama pudimos hacer el codigo que fue un poco tedioso ya que era la primera vez que hacia una actividad de este tipo. Es una muy buena herramienta debido a que permite general simulaciones de circuitos y tiene muchos componentes que nos sirven para poder hacer las simulaciones que no se pudieron hacer en la curiosity.  
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
